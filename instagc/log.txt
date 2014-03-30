@@ -1,0 +1,10 @@
+
+Starting INSTAGC Survey Engine v0.0
+Starting at 2014/03/30 16:51:14
+Starting Client.
+Client ready. Took 9776ms.
+Logging in.
+Login Complete. Took 2550ms.
+All operations complete at 2014/03/30 16:51:26. Took 12326ms.
+Performing cleanup.
+
